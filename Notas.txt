@@ -1,0 +1,3 @@
+instalado laravel permission
+instalado laravel lang
+instalado react-icons; npm install react-icons
